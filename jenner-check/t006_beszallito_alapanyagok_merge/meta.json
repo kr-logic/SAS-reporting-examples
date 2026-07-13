@@ -1,0 +1,7 @@
+{
+  "bundle": "t006_beszallito_alapanyagok_merge",
+  "source_file": "adatgeneralas.sas (ALAPANYAGOK + BESZALLITO blocks) + feladat_megoldasok.sas (feladat 7)",
+  "source_blob_sha": "ddf2f931bc4abc6685355b77f90f8a2b489f7215 (adatgeneralas.sas), ffe30487c71cb0108f8d844f04043ead4f5a3ab3 (feladat_megoldasok.sas)",
+  "source_commit": "47777c28a9290e48ff91eadf8a46a2a9db860fc4",
+  "notes": "Generates ALAPANYAGOK and BESZALLITO (100-row samples), sorts and merges them by ANYAG (a genuine many-to-many join, since a material repeats in both tables), then runs the student's PROC TABULATE from feladat 7: a breakdown of the merged result by product group, material, type and supplier company. One line changed: SZALL_DATUM used date() (today's date); pinned to a fixed reference date ('01JAN2026'd) for reproducibility, though this particular TABULATE doesn't use that column. Join and table logic unchanged."
+}

@@ -1,0 +1,20 @@
+{
+  "_captured_at": "2026-07-13T07:16:47.827437+00:00",
+  "_captured_run_id": "r_89b0e06a20e640efbf48affeaa1e809a",
+  "status": "ok",
+  "exit_code": 0,
+  "log_contains": [
+    "NOTE: Wrote ALAPANYAGOK (100 rows, 8 columns).",
+    "NOTE: Wrote BESZALLITO (100 rows, 11 columns).",
+    "NOTE: PROC MEANS statement used.",
+    "NOTE: PROC FREQ statement used."
+  ],
+  "log_does_not_contain": [
+    "ERROR:",
+    "[JENNER-ERROR"
+  ],
+  "diagnostics": {
+    "parse_warnings": [],
+    "runtime_warnings": []
+  }
+}

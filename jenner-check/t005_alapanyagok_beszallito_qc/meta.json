@@ -1,0 +1,7 @@
+{
+  "bundle": "t005_alapanyagok_beszallito_qc",
+  "source_file": "adatgeneralas.sas (ALAPANYAGOK + BESZALLITO blocks) + feladat_megoldasok.sas (feladat 6)",
+  "source_blob_sha": "ddf2f931bc4abc6685355b77f90f8a2b489f7215 (adatgeneralas.sas), ffe30487c71cb0108f8d844f04043ead4f5a3ab3 (feladat_megoldasok.sas)",
+  "source_commit": "47777c28a9290e48ff91eadf8a46a2a9db860fc4",
+  "notes": "Generates ALAPANYAGOK (materials/hardware, 1000-row loop capped to 100 by the engine's unlicensed-mode limit) and BESZALLITO (suppliers, 100-row sample), then runs the student's feladat 6 data-quality check (PROC MEANS + PROC FREQ on both). One line changed: SZALL_DATUM used date() (today's date), which would shift PROC MEANS' mean every day this bundle is re-run; it's pinned to a fixed reference date ('01JAN2026'd) so the captured statistics stay reproducible. The random day-offset logic itself is unchanged."
+}
