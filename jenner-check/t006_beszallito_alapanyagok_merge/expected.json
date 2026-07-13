@@ -1,0 +1,20 @@
+{
+  "_captured_at": "2026-07-13T07:16:47.841303+00:00",
+  "_captured_run_id": "r_da9df1cae3cf4a169276f61372e903f3",
+  "status": "ok",
+  "exit_code": 0,
+  "log_contains": [
+    "NOTE: Wrote ALAPANYAGOK (100 rows, 8 columns).",
+    "NOTE: Wrote BESZALLITO (100 rows, 11 columns).",
+    "NOTE: Wrote kozos2 (103 rows, 11 columns).",
+    "NOTE: PROC TABULATE"
+  ],
+  "log_does_not_contain": [
+    "ERROR:",
+    "[JENNER-ERROR"
+  ],
+  "diagnostics": {
+    "parse_warnings": [],
+    "runtime_warnings": []
+  }
+}

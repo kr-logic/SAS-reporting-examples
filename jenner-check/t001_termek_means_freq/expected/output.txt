@@ -1,0 +1,41 @@
+                                                   Elemi statisztika                                                    
+
+                                                  The MEANS Procedure
+
+ Variable   Label             N              Mean          Std Dev           Minimum           Maximum
+ -----------------------------------------------------------------------------------------------------
+ SZELE      Szelesseg       100       151.5200000       27.2183390       100.0000000       197.0000000
+ HOSSZA     Hosszusag       100       150.8200000       27.5843536       100.0000000       198.0000000
+ DARABSZAM  Darabszam       100        49.6400000       27.4356989         1.0000000        99.0000000
+ terul                      100     22854.1600000     5842.0925141     11500.0000000     36672.0000000
+ -----------------------------------------------------------------------------------------------------
+
+                                                    Gyakorisag tabla                                                    
+
+                                                   The FREQ Procedure
+
+                                           Cumulative    Cumulative
+Termek anyaga    Frequency    Percent     Frequency      Percent
+----------------------------------------------------------------------
+Alu                     14     14.00           14        14.00
+Fa                      41     41.00           55        55.00
+PVC                     45     45.00          100       100.00
+
+                                        Cumulative    Cumulative
+Tipus         Frequency    Percent     Frequency      Percent
+-------------------------------------------------------------------
+Bejarati             43     43.00           43        43.00
+Buko                  7      7.00           50        50.00
+Buko-nyilo           23     23.00           73        73.00
+Fix                   2      2.00           75        75.00
+Harmonika             1      1.00           76        76.00
+Nyilo                 5      5.00           81        81.00
+Tolo                 17     17.00           98        98.00
+Tolo-buko             2      2.00          100       100.00
+
+                                            Cumulative    Cumulative
+Termekcsoport     Frequency    Percent     Frequency      Percent
+-----------------------------------------------------------------------
+Ablakok                  44     44.00           44        44.00
+Bejarati ajtok           33     33.00           77        77.00
+Erkelyajtok              23     23.00          100       100.00

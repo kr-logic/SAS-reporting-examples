@@ -1,0 +1,20 @@
+{
+  "_captured_at": "2026-07-13T07:16:38.962523+00:00",
+  "_captured_run_id": "r_258cdda8ada448d895f0879ef0cf4a0f",
+  "status": "ok",
+  "exit_code": 0,
+  "log_contains": [
+    "NOTE: Wrote TERMEK (100 rows, 10 columns).",
+    "NOTE: Wrote termek2 (100 rows, 11 columns).",
+    "NOTE: PROC MEANS statement used.",
+    "NOTE: PROC FREQ statement used."
+  ],
+  "log_does_not_contain": [
+    "ERROR:",
+    "[JENNER-ERROR"
+  ],
+  "diagnostics": {
+    "parse_warnings": [],
+    "runtime_warnings": []
+  }
+}

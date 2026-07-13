@@ -1,0 +1,173 @@
+                                                The UNIVARIATE Procedure
+                                             Variable:  SZELE  (Szelesseg)
+
+                                                        Moments
+
+N                                100    Sum Weights                      100
+Mean                      151.520000    Sum Observations        15152.000000
+Std Deviation              27.218339    Variance                  740.837980
+Skewness                   -0.153819    Kurtosis                   -1.093801
+Uncorrected SS        2369174.000000    Corrected SS            73342.960000
+Coeff Variation            17.963529    Std Error Mean              2.721834
+
+          Basic Statistical Measures           
+
+Location              Variability              
+--------  ----------  -------------  ----------
+Mean      151.520000  Std Deviation   27.218339
+Median    152.500000  Variance       740.837980
+Mode      164.000000  Range           97.000000
+
+Quantiles (Definition 5)
+
+Quantile      Estimate
+----------  ----------
+0% Min      100.000000
+1%          101.000000
+5%          107.000000
+10%         114.000000
+25% Q1      127.500000
+50% Median  152.500000
+75% Q3      176.000000
+90%         188.000000
+95%         192.000000
+99%         196.000000
+100% Max    197.000000
+
+           Extreme Observations           
+
+Lowest                Highest             
+--------  ----------  --------  ----------
+Value     100.000000  Value     192.000000
+Value     102.000000  Value     192.000000
+Value     103.000000  Value     193.000000
+Value     104.000000  Value     195.000000
+Value     106.000000  Value     197.000000
+
+
+
+
+         Tests for Location          
+
+Test                Statistic   p Value
+------------------  ---------  --------
+Student's t         55.668349126         0
+Sign                       50         0
+Signed Rank              5050         0
+
+
+                                                The UNIVARIATE Procedure
+                                             Variable:  HOSSZA  (Hosszusag)
+
+                                                        Moments
+
+N                                100    Sum Weights                      100
+Mean                      150.820000    Sum Observations        15082.000000
+Std Deviation              27.584354    Variance                  760.896566
+Skewness                   -0.099117    Kurtosis                   -1.180274
+Uncorrected SS        2349996.000000    Corrected SS            75328.760000
+Coeff Variation            18.289586    Std Error Mean              2.758435
+
+          Basic Statistical Measures           
+
+Location              Variability              
+--------  ----------  -------------  ----------
+Mean      150.820000  Std Deviation   27.584354
+Median    152.500000  Variance       760.896566
+Mode      140.000000  Range           98.000000
+
+Quantiles (Definition 5)
+
+Quantile      Estimate
+----------  ----------
+0% Min      100.000000
+1%          100.500000
+5%          107.000000
+10%         112.500000
+25% Q1      126.000000
+50% Median  152.500000
+75% Q3      174.000000
+90%         187.500000
+95%         192.500000
+99%         198.000000
+100% Max    198.000000
+
+           Extreme Observations           
+
+Lowest                Highest             
+--------  ----------  --------  ----------
+Value     100.000000  Value     193.000000
+Value     101.000000  Value     193.000000
+Value     104.000000  Value     194.000000
+Value     106.000000  Value     198.000000
+Value     107.000000  Value     198.000000
+
+
+
+
+         Tests for Location          
+
+Test                Statistic   p Value
+------------------  ---------  --------
+Student's t         54.675923161         0
+Sign                       50         0
+Signed Rank              5050         0
+
+
+                                                The UNIVARIATE Procedure
+                                                    Variable:  terul
+
+                                                        Moments
+
+N                                100    Sum Weights                      100
+Mean                    22854.160000    Sum Observations      2285416.000000
+Std Deviation            5842.092514    Variance              34130044.943838
+Skewness                    0.154829    Kurtosis                   -0.561420
+Uncorrected SS        55610137380.000000    Corrected SS          3378874449.440000
+Coeff Variation            25.562491    Std Error Mean            584.209251
+
+              Basic Statistical Measures              
+
+Location                Variability                   
+--------  ------------  -------------  ---------------
+Mean      22854.160000  Std Deviation      5842.092514
+Median    22715.000000  Variance       34130044.943838
+Mode      25900.000000  Range             25172.000000
+
+Quantiles (Definition 5)
+
+Quantile        Estimate
+----------  ------------
+0% Min      11500.000000
+1%          11513.000000
+5%          13438.000000
+10%         15974.500000
+25% Q1      18299.000000
+50% Median  22715.000000
+75% Q3      27686.000000
+90%         30074.000000
+95%         33092.000000
+99%         36478.000000
+100% Max    36672.000000
+
+             Extreme Observations             
+
+Lowest                  Highest               
+--------  ------------  --------  ------------
+Value     11500.000000  Value     33096.000000
+Value     11526.000000  Value     33735.000000
+Value     11918.000000  Value     34848.000000
+Value     12084.000000  Value     36284.000000
+Value     13268.000000  Value     36672.000000
+
+
+
+
+         Tests for Location          
+
+Test                Statistic   p Value
+------------------  ---------  --------
+Student's t         39.119818703         0
+Sign                       50         0
+Signed Rank              5050         0
+

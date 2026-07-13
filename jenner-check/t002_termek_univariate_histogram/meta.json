@@ -1,0 +1,7 @@
+{
+  "bundle": "t002_termek_univariate_histogram",
+  "source_file": "adatgeneralas.sas (TERMEK block) + feladat_megoldasok.sas (feladat 2)",
+  "source_blob_sha": "ddf2f931bc4abc6685355b77f90f8a2b489f7215 (adatgeneralas.sas), ffe30487c71cb0108f8d844f04043ead4f5a3ab3 (feladat_megoldasok.sas)",
+  "source_commit": "47777c28a9290e48ff91eadf8a46a2a9db860fc4",
+  "notes": "Generates the TERMEK product catalog (100-row sample) and product area, then runs the student's PROC UNIVARIATE + HISTOGRAM used to check whether width/length/area follow a normal distribution. Added an explicit var list (szele hossza terul) so the analysis targets the same three measures the student discusses in the README-adjacent commentary, rather than every numeric column including loop/random-draw scratch variables."
+}

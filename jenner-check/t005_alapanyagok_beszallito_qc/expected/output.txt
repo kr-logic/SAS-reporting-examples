@@ -1,0 +1,67 @@
+                                                  The MEANS Procedure
+
+ Variable        N        Mean     Std Dev     Minimum     Maximum
+ -----------------------------------------------------------------
+ -----------------------------------------------------------------
+
+                                                   The FREQ Procedure
+
+                                   Cumulative    Cumulative
+ANYAG    Frequency    Percent     Frequency      Percent
+--------------------------------------------------------------
+Alu              8      8.00            8         8.00
+Fa              34     34.00           42        42.00
+PVC             58     58.00          100       100.00
+
+                                           Cumulative    Cumulative
+TIPUS            Frequency    Percent     Frequency      Percent
+----------------------------------------------------------------------
+Bejárati                11     11.00           11        11.00
+Bukó                     9      9.00           20        20.00
+Bukó-nyíló              16     16.00           36        36.00
+Fix                     23     23.00           59        59.00
+Harmonika                9      9.00           68        68.00
+Nyíló                    9      9.00           77        77.00
+Toló                     8      8.00           85        85.00
+Toló-bukó               15     15.00          100       100.00
+
+                                             Cumulative    Cumulative
+TERMEKCSOPORT      Frequency    Percent     Frequency      Percent
+------------------------------------------------------------------------
+Ablakok                   50     50.00           50        50.00
+Bejárati ajtó             23     23.00           73        73.00
+Erkélyajtók               27     27.00          100       100.00
+                                                  The MEANS Procedure
+
+ Variable            N              Mean        Std Dev        Minimum        Maximum
+ ------------------------------------------------------------------------------------
+ SZALL_DATUM       100     24156.7510079     29.3619735     2026-01-02     2026-04-09
+ ------------------------------------------------------------------------------------
+
+                                                   The FREQ Procedure
+
+                                        Cumulative    Cumulative
+CEG           Frequency    Percent     Frequency      Percent
+-------------------------------------------------------------------
+ABLAK ZRT.           53     53.00           53        53.00
+Windows              24     24.00           77        77.00
+Üvegesék             23     23.00          100       100.00
+
+                                   Cumulative    Cumulative
+ANYAG    Frequency    Percent     Frequency      Percent
+--------------------------------------------------------------
+Alu             11     11.00           11        11.00
+Fa              34     34.00           45        45.00
+PVC             55     55.00          100       100.00
+
+                                           Cumulative    Cumulative
+TIPUS            Frequency    Percent     Frequency      Percent
+----------------------------------------------------------------------
+Bejárati                39     39.00           39        39.00
+Bukó                     7      7.00           46        46.00
+Bukó-nyíló              24     24.00           70        70.00
+Fix                      2      2.00           72        72.00
+Harmonika                3      3.00           75        75.00
+Nyíló                    4      4.00           79        79.00
+Toló                    13     13.00           92        92.00
+Toló-bukó                8      8.00          100       100.00

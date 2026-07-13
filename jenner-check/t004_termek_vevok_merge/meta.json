@@ -1,0 +1,7 @@
+{
+  "bundle": "t004_termek_vevok_merge",
+  "source_file": "adatgeneralas.sas (TERMEK + VEVOK blocks) + feladat_megoldasok.sas (feladat 4-5)",
+  "source_blob_sha": "ddf2f931bc4abc6685355b77f90f8a2b489f7215 (adatgeneralas.sas), ffe30487c71cb0108f8d844f04043ead4f5a3ab3 (feladat_megoldasok.sas)",
+  "source_commit": "47777c28a9290e48ff91eadf8a46a2a9db860fc4",
+  "notes": "Generates TERMEK (100-row sample) and VEVOK (customer/delivery, 100-row sample), sorts and merges them by termek_id (feladat 4, a one-to-one join on this sample size), then runs the student's PROC TABULATE from feladat 5 breaking down purchases and average width/length/area/quantity by named customer and product type. No logic changed."
+}

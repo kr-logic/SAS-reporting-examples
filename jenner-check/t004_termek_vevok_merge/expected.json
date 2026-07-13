@@ -1,0 +1,20 @@
+{
+  "_captured_at": "2026-07-13T07:16:47.813509+00:00",
+  "_captured_run_id": "r_42e026079dcd44d58fb0c45431d10de0",
+  "status": "ok",
+  "exit_code": 0,
+  "log_contains": [
+    "NOTE: Wrote TERMEK (100 rows, 10 columns).",
+    "NOTE: Wrote VEVOK (100 rows, 8 columns).",
+    "NOTE: Wrote kozos (12 rows, 18 columns).",
+    "NOTE: PROC TABULATE"
+  ],
+  "log_does_not_contain": [
+    "ERROR:",
+    "[JENNER-ERROR"
+  ],
+  "diagnostics": {
+    "parse_warnings": [],
+    "runtime_warnings": []
+  }
+}
