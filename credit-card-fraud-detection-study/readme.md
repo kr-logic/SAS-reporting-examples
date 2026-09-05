@@ -1,4 +1,4 @@
-[📄 **A teljes tanulmány PDF formátumban ide kattintva olvasható!**](bankkartyas_csalasok_detektalasa.pdf)
+[📄 **A teljes tanulmány PDF formátumban ide kattintva olvasható!**](hungarian/bankkartyas_csalasok_detektalasa.pdf)
 
 **A Kutatás Célja**
 A projekt egy prediktív osztályozó modell felépítését dokumentálja, amely a bankkártyás csalásokat (fraud) valós időben szűri ki. A globális bankkártyás csalásokból eredő kár évente több tízmilliárd dollárra tehető, a hagyományos szabályalapú (rule-based) rendszereket pedig a kiberbűnözők könnyedén kijátsszák. A gépi tanulás lehetővé teszi a gyanús mintázatok proaktív felismerését, megvédve a pénzintézetek bizalmi tőkéjét és minimalizálva a számviteli veszteséget.
