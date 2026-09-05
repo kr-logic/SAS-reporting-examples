@@ -1,4 +1,4 @@
-Ez a repozitórium egy egyetemi gyakorlat SAS feladatait és megoldását tartalmazza.
+Ez a mappa egy egyetemi gyakorlat SAS feladatait és megoldását tartalmazza.
 
 Tökéletes demonstráció egy minta adatállomány generálására, majd az azon végzett statisztikai-elemzési műveletek végrehajtására.
 
@@ -9,7 +9,7 @@ A feladatok megoldásához szükséges összes lekérdezést és logikát (`mego
 -----------------
 ### English Version
 
-This repository contains SAS tasks and solutions from a university assignment. 
+This folder contains SAS tasks and solutions from a university assignment. 
 It serves as a perfect demonstration of generating a mock dataset and subsequently performing statistical analysis on it.
 
 The data generation code and the practice tasks were created by [József Csicsman](https://math.bme.hu/~csicsman/index.html). All queries, data manipulation, and logic required to solve the tasks (`megoldas_lekerdezesek.sas`) were developed independently by me.
